@@ -54,7 +54,7 @@ function draw() {
   verificaColisaoRaqueteOponente;
   incluirPlacar();
   marcaPonto();
-}
+} 
 
 function mostraBolinha() {
   circle(xBolinha, yBolinha, diametro);
